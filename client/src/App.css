@@ -1,0 +1,27 @@
+
+
+*::after,
+*::before,
+* {
+  margin     : 0;
+  padding    : 0;
+  box-sizing : content-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.App {
+  padding-top: 100px;
+}
+
+.search-block {
+  display        : flex;
+  display        : flex;
+  align-items    : center;
+  justify-content: center;
+}
+
+.error{
+  margin: 0 auto;
+  margin-top: 30px;
+  text-align: center;
+}
